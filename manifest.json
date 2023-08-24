@@ -1,0 +1,11 @@
+{
+   "manifest_version": 1,
+   "name": "ElonMuskEverywhere",
+   "version": "1.0.0",
+   "context_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["Content.js"]
+    }
+   ]
+}
