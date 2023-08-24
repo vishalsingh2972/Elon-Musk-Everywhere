@@ -10,4 +10,15 @@ let elonMuskImages = [
   "https://pbs.twimg.com/media/F4MTKqNWsAAETCJ?format=jpg&name=medium",
   "https://pbs.twimg.com/media/F3d3WnrakAImHZu?format=jpg&name=large",
   "https://c.files.bbci.co.uk/7727/production/_103330503_musk3.jpg"
-]
+];
+
+const images = document.getElementsByTagName("img");
+for(let i = 0; i < images.length; i++){
+    const randomImg = Math.floor(Math.random() * elonMuskImages.length);
+    images[i].src = elonMuskImages[randomImg];
+}
+
+const headers = document.getElementsByTagName("h2");
+for(let i = 0; i < headers.length; i++){
+    headers[i].innerText = "Made with ❤️ by Vishal";
+}
