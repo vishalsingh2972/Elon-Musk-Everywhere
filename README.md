@@ -1,4 +1,4 @@
-# Elon Musk Chrome Extension
+# Elon Musk Chrome Extension :trollface:
 
 ## About the Project
 This is a chrome extension built using javascript that changes all images on any website to pictures of Elon Musk.
