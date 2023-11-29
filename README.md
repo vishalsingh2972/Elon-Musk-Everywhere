@@ -9,4 +9,4 @@ https://github.com/vishalsingh2972/ElonMusk-ChromeExtension/assets/106817047/ecf
 ## Installation
 To install this application before it is published in the Chrome Web Store, simply download the files from this repository and extract them to a new folder. In Chrome, go to chrome://extensions. Enable developer mode, then click on "Load unpacked" and select the new folder containing the extracted repository files. 
 
-Finally, enable the extension and have fun seeing Elon Musk's face on every website you visit.
+Finally, enable the extension and enjoy seeing Elon Musk's face on every website you visit from now on.
