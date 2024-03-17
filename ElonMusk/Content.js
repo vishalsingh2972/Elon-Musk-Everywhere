@@ -1,4 +1,3 @@
-
 let elonMuskImages = [
   "https://www.politico.eu/cdn-cgi/image/width=1280,quality=80,onerror=redirect,format=auto/wp-content/uploads/2023/08/22/GettyImages-1229892852-scaled.jpg",
   "https://i.guim.co.uk/img/media/ff51317a233516aede64e630c73fdb26106c8b0f/0_32_3500_2099/master/3500.jpg?width=620&dpr=2&s=none",
